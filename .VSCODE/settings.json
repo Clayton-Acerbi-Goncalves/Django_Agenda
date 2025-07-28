@@ -54,5 +54,6 @@
     "django-html": "html",
     "jinja-html": "html"
   },
-  "emmet.triggerExpansionOnTab": true
+  "emmet.triggerExpansionOnTab": true,
+  "terminal.external.windowsExec": "wt.exe"
 }
